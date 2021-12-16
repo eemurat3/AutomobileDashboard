@@ -4,11 +4,11 @@ with Qt and Qml coded the basic automobile dashboard
 This project has two screen. first screen is about of Engine configuration and second screen is about of dasboard. for design fronted I used qml and for backend I used  c++.
 
 
-<img src="https://github.com/eemurat3/AutomobileDashboard/blob/main/Images/Screenshot%20from%202021-12-16%2012-24-25.png" alt="Automobile Dashboard" width="800" height ="480"/>
+<img src="https://github.com/eemurat3/AutomobileDashboard/blob/main/Images/Screenshot%20from%202021-12-16%2012-24-25.png" alt="Automobile Dashboard"/>
 
 Autombile Dashboard Screen
 
-<img src="https://github.com/eemurat3/AutomobileDashboard/blob/main/Images/Screenshot%20from%202021-12-16%2012-24-31.png" alt="Automobile Dashboard" width="800" height ="480"/>
+<img src="https://github.com/eemurat3/AutomobileDashboard/blob/main/Images/Screenshot%20from%202021-12-16%2012-24-31.png" alt="Automobile Dashboard"/>
 Engine Configuration Sreen
 
 
